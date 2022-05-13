@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+/data/crypto_tweets_pts.csv
+
+/data/bigram.csv
+/data/topic_model_dataframe.csv
+/data/trigram.csv
