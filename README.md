@@ -2,7 +2,9 @@
 
 
 ## How To Navigate Through the Repo
+In the data folder, you'll find the data we used in our analysis.
 
+In the notebooks folder, you'll find 5 notebooks. The twitter_data_collection.ipynb showcases how we scraped tweets from the top 100 users in crypto twitter. The eth_data_engineering_eda.ipynb notebook showcases our ethereum data collection as well as some exploratory data anaylysis and feature engineering. In the nlp_preprocessing.ipynb, you'll see the process we used to clean and preprocess our tweets dataset. In the topic_modeling.ipynb notebook, you'll see how we used unsupervised learning to categorize over 1 million tweets. Finally, in the model_testing_and_evals.ipynb notebook, you'll see our model creations, testing, and conclusions. 
 
 ## Overview
 This project analyzes the data from Twitter about cryptocurrency sentiment and the trading data from Yahoo Finance. Base on the dataset, we are using machine learning models to determine the purchase of Ethereum in the future.
